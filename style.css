@@ -1,0 +1,123 @@
+body{
+    font-family: 'Poppins', sans-serif;
+}
+h1{
+    font-size: 40px;
+    font-weight: 900;
+}
+.display{
+    display: flex;
+    margin: 5%;
+}
+
+.focus-left{
+    width: 50%;
+    margin-right:5%;
+}
+.orange-color{
+    color: #f59560;
+}
+.button{
+    background-color: tomato;
+    border-radius: 5px;
+    text-decoration: none;
+    padding: 10px 30px;
+    color: white;
+}
+#gray{
+    padding-top: 10px;
+    color: slategray;
+}
+.focus-left p{
+    padding-bottom: 20px;
+}
+.focus-left h1{
+    border-left:4px solid rgb(255, 102, 0);
+    padding-left: 10px;
+}
+
+.focus-right{
+    width: 50%;
+    margin-left: 5%;
+
+}
+
+.focus-right img{
+    width: 500PX;
+    height: 500PX;
+}
+.skills h1{
+    text-align: center;
+}
+
+.skills-items-one{
+    background-color: rgb(255, 233, 248);
+    margin-right: 2%;
+    padding: 30px 40px;
+}
+.skills-items-two{
+    background-color: rgb(198, 245, 206);
+    margin-left: 2%;
+    margin-right: 2%;
+    padding: 30px 40px;
+}
+.skills-items-three{
+    background-color: rgb(252, 241, 201);
+    margin-left: 2%;
+    padding: 30px 40px;
+}
+.logo-width{
+    width: 100px;
+}
+.border{
+    border-radius:5% ;
+}
+
+.project-left{
+    width: 50%;
+    margin-right: 5%;
+}
+.img-width{
+    height: 400px;
+    width: 400px;
+}
+.project-right p{
+    padding-bottom: 20px;
+}
+
+.learn-left{
+    width: 60%;
+    margin-right: 5%;
+}
+.learn-left p{
+    padding-bottom: 20px;
+}
+footer{
+    background-color: black;
+    color: white;
+    padding: 20px;
+    text-align: center;
+}
+.portfolio{
+    background-color: chocolate;
+    margin: 5%;
+
+}
+.image{
+    width:30%;
+    padding: 20x 10px;
+}
+#small{
+ height:300px;
+ width: 300px;
+}
+
+.para{
+    width: 30%;
+    color:white;
+    padding :20px 10px;
+}
+.watch{
+    width: 30%;
+    margin-left: 5%;
+}
