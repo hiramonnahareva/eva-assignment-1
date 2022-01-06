@@ -99,7 +99,7 @@ footer{
     text-align: center;
 }
 .portfolio{
-    background-color: chocolate;
+    background-color: rgb(248, 207, 177);
     margin: 5%;
 
 }
@@ -114,7 +114,7 @@ footer{
 
 .para{
     width: 30%;
-    color:white;
+    color:rgb(0, 0, 0);
     padding :20px 10px;
 }
 .watch{
